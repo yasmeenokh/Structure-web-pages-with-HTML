@@ -2,8 +2,8 @@
         var patientName= prompt("please enter your name");
         while (patientName == null) {
             patientName= prompt("please enter your name");
-        };
-        
+        }; 
+
             alert('Welcome ' + patientName + ' Stay Healthy and Safe')
         
 
