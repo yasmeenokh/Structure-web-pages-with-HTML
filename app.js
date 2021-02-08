@@ -1,6 +1,7 @@
 
         var patientName= prompt("please enter your name");
-        while (patientName == null) {
+        console.log(patientName)
+        while (patientName == null || patientName=='') {
             patientName= prompt("please enter your name");
         }; 
 
