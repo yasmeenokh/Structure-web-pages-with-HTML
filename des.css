@@ -1,0 +1,73 @@
+body {width: 960px;
+background-color: #f4f9f9; 
+}
+
+
+.logo { 
+    width: 50px;
+    float: left;
+     margin-right: 20px
+}; 
+
+.tab1 a, .tab1 {display: inline !important;
+color:#aaaaaa; 
+margin-right: 20px;
+}
+
+#li1 {
+
+display: inline;
+color:#aaaaaa; 
+
+}
+
+#li2 {
+
+    display: inline;
+    color: aaaaaaaqua; 
+    
+    }
+
+a{
+    text-decoration: none;
+    color: ;
+}
+
+.surv {
+    padding: 20px;
+    text-align: center;
+    color:#0a043c ;
+    
+ }
+ .sec1 {
+     margin: 20px;
+     text-align: center;
+     color: #0a043c;
+ }
+
+ .sec2 {
+    margin: 20px;
+    text-align: center;
+    color: #0a043c;
+ }
+
+ footer {
+     background-color: #a4ebf3;
+     text-align: left;
+     line-height: 1.5;
+     color: #557174;
+ }
+ .alone { 
+     width: 50px;
+     height: 50px;
+ }
+ .notAlone {
+     width: 50px;
+     height: 50px;
+ }
+
+ .parg1 
+ {
+     float: left;
+     margin-right: 20px;
+ }
